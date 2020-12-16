@@ -1,0 +1,26 @@
+*{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+h1,h2{
+    color: coral;
+    text-align: center;
+    background-color: black;
+}
+p {color: cornflowerblue;
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+  ol,ul {
+	list-style: none;
+	display: inline;
+    padding-left:0;
+    text-align: center;
+}
+#closed{
+    color:maroon;
+}
